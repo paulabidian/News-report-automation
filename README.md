@@ -10,7 +10,7 @@ Delivers a beautifully formatted email via Gmail — automatically, every day at
 
 No manual work. No copy-pasting. Just open your inbox.
 
- Tech Stack
+Tech Stack
 Tool:
 Make.com-Workflow orchestration
 HTTP module-RSS feed ingestion
